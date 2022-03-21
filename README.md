@@ -7,6 +7,8 @@ My intrests include: Machine Learning, Artificial Inteligence, Computer Vision a
  - C++
  - Flutter
  - Dart
+## Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuraswani)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 madhuraswani/madhuraswani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
