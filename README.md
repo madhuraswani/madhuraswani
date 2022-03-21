@@ -3,7 +3,6 @@ I am a Software Engineer and i love to code and build software that makes my lif
 My intrests include: Machine Learning, Artificial Inteligence, Computer Vision and GPU computing.
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuraswani)](https://github.com/anuraghazra/github-readme-stats)
  - Python
  - C++
  - Flutter
