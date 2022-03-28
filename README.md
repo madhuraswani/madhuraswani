@@ -3,10 +3,16 @@ I am a Software Engineer and i love to code and build software that makes my lif
 My intrests include: Machine Learning, Artificial Inteligence, Computer Vision and GPU computing.
 
 ## Skills
- - Python
+ - Python 
+   - Django
+   - Flask
+   
  - C++
- - Flutter
  - Dart
+   - Flutter
+ - Ruby
+ - Javascript
+   - React
 ## Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuraswani)](https://github.com/anuraghazra/github-readme-stats)
 <!---
