@@ -2,11 +2,12 @@
 I am a Software Engineer and i love to code and build software that makes my life a little easier. You can find me for python related quires and collabirations. 
 My intrests include: Machine Learning, Artificial Inteligence, Computer Vision and GPU computing.
 
+## Resume
+[Resume](https://drive.google.com/file/d/1Y4ka1zfWVxBq8XiG2vhqqeZqD73oKiCl/view?usp=sharing "Resume")
 ## Skills
  - Python 
    - Django
    - Flask
-   
  - C++
  - Dart
    - Flutter
