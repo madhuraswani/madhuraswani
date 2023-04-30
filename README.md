@@ -3,7 +3,7 @@ I am a Software Engineer and I love to code and build software that makes my lif
 My intrests include: Machine Learning, Artificial Inteligence, Computer Vision and GPU computing.
 
 ## Resume
-[Resume](https://drive.google.com/file/d/1Y4ka1zfWVxBq8XiG2vhqqeZqD73oKiCl/view?usp=sharing "Resume")
+[Resume](https://drive.google.com/file/d/1F-impXLIJ1GEaYMXnwjrdt5SdBF3LoYR/view?usp=share_link)
 ## Skills
 <details>
  <summary>Python</summary>
