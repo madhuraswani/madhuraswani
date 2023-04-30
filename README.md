@@ -30,6 +30,15 @@ My intrests include: Machine Learning, Artificial Inteligence, Computer Vision a
  
 </details>
 
+<details>
+ <summary>Cloud
+   </summary>
+ <li>Google Cloud</li>
+ <li>AWS</li>
+ 
+</details>
+## Resarch Paper
+[SPOT - Sensor Placement Optimization Toolkit](https://drive.google.com/file/d/1qQ7RNBu5RI2rndgLw7m9qlubH0U7TzZt/view?usp=share_link)
 ## Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuraswani)](https://github.com/anuraghazra/github-readme-stats)
 <!---
